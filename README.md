@@ -6,9 +6,9 @@
 
 ## **Langkah-Langkah Praktikum**
 * **Membuat Box Element**
-* Membuat dokumen HTML, seperti berikut.</br>
+* Membuat dokumen HTML, seperti berikut.
 ![Gambar](/gambar/Capture1.PNG)
-* Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+* Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.</br>
 ![Gambar](/gambar/Capture2.PNG)
 * Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
 ![Gambar](/gambar/Capture3.PNG)
