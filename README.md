@@ -6,7 +6,7 @@
 
 ## **Langkah-Langkah Praktikum**
 * **Membuat Box Element**
-* Membuat dokumen HTML, seperti berikut.
+* Membuat dokumen HTML, seperti berikut.</br>
 ![Gambar](/gambar/Capture1.PNG)
 * Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
 ![Gambar](/gambar/Capture2.PNG)
