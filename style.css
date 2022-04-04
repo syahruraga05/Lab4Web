@@ -1,0 +1,15 @@
+<style>
+    div {
+        float:left;
+        padding: 10px;
+    }
+    .div1 {
+        background: red;
+    }
+    .div2 {
+        background: yellow;
+    }
+    .div3 {
+        background: green;
+    }
+</style>
